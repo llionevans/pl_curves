@@ -2,7 +2,7 @@ This software is automatically tested by Travis-CI after each build. Current bui
 [![Build status](https://travis-ci.com/llionevans/pl_curves.svg?branch=master)](https://travis-ci.com/llionevans/pl_curves)
 
 Code coverage: 
-[![codecov](https://codecov.io/gh/CDT-AIMLAC/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/CDT-AIMLAC/pl_curves)
+[![codecov](https://codecov.io/gh/llionevans/pl_curves/branch/master/graph/badge.svg?token=ZS62RYNXLA)](https://codecov.io/gh/llionevans/pl_curves)
 
 # Introduction
 
